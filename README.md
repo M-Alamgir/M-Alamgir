@@ -1,6 +1,6 @@
 ### Hi there, I'm Alamgir 👋
 
-Full Stack Developer. Ruby | PHP | JAVASCRIPT | Python | C#. Formerly 3D Designer / Video game Developer. 3ds MAX | MAYA | Zbrush | Unity 3d | Unreal Engine.
+Full Stack Developer. Ruby | PHP | JAVASCRIPT | Python | C#. Formerly 3D Designer / Video game Developer. 3ds MAX | MAYA | Zbrush | Unity 3d | Unreal Engine, Available for hire.
 
 - 🔭 I’m currently student at Microverse
 - 🌱 I’m currently learning Software Development
