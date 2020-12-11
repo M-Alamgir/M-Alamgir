@@ -1,5 +1,13 @@
 ### Hi there, I'm Alamgir 👋
 
+Full Stack Developer. Ruby | PHP | JAVASCRIPT | Python | C#. Formerly 3D Designer / Video game Developer. 3ds MAX | MAYA | Zbrush | Unity 3d | Unreal Engine.
+
+- 🔭 I’m currently student at Microverse
+- 🌱 I’m currently learning Software Development
+
+![Alamgir's github stats](https://github-readme-stats.vercel.app/api?username=ourandco&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ourandco&layout=compact)](https://github.com/ourandco/github-readme-stats)
+
 <!--
 **ourandco/ourandco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
