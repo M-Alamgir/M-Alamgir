@@ -1,13 +1,41 @@
-### Hi there, I'm Alamgir 👋
+<!--
+is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Full Stack Developer. Ruby | PHP | JAVASCRIPT | Python | C#. Formerly 3D Designer / Video game Developer. 3ds MAX | MAYA | Zbrush | Unity 3d | Unreal Engine, Available for hire.
+Here are some ideas to get you started:
 
-- 🔭 I’m currently student at Microverse
-- 🌱 I’m currently learning Software Development
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-![Alamgir's github stats](https://github-readme-stats.vercel.app/api?username=ourandco&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ourandco&layout=compact)](https://github.com/ourandco/github-readme-stats)
+<div align="center">
+  <p>Hi there 👋</p>
+  <p>I'm a Full Stack web developer, 3D Designer and video game developer.</p>
 
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=M-Alamgir&count_private=true&show_icons=true&theme=light)
+  
+  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)]()
+
+  <div>
+    <img title="Bootstrap" height=35 src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
+    <img title="SASS" height=35 src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" />
+    <img title="React" height=35 src="https://cdn.worldvectorlogo.com/logos/react.svg" />
+    <img title="Redux" height=35 src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
+    <img title="Rails" height=35 src="https://cdn.worldvectorlogo.com/logos/rails.svg" />
+    <img title="Python" height=35 src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
+    <img title="C#" height=35 src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
+    <img title="3ds Max" height=35 src="https://cdn.worldvectorlogo.com/logos/3ds-max-2.svg" />
+    <img title="Maya" height=35 src="https://cdn.worldvectorlogo.com/logos/maya-2017.svg" />
+    <img title="Unity 3d" height=35 src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" />
+    <img title="Unreal engine" height=35 src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" />
+  </div>
+    
+</div>
 <!--
 **ourandco/ourandco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
