@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   <p>Hi there 👋</p>
-  <p>I'm a Full Stack web developer, 3D Designer and video game developer.</p>
+  <p>I'm a Full Stack Web developer, 3D Graphic Designer and Video Game developer.</p>
 
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=M-Alamgir&count_private=true&show_icons=true&theme=light)
   
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)]()
 
   <div>
-    <img title="Bootstrap" height=35 src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
-    <img title="SASS" height=35 src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" />
     <img title="React" height=35 src="https://cdn.worldvectorlogo.com/logos/react.svg" />
     <img title="Redux" height=35 src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
     <img title="Rails" height=35 src="https://cdn.worldvectorlogo.com/logos/rails.svg" />
@@ -33,6 +31,8 @@ Here are some ideas to get you started:
     <img title="Maya" height=35 src="https://cdn.worldvectorlogo.com/logos/maya-2017.svg" />
     <img title="Unity 3d" height=35 src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" />
     <img title="Unreal engine" height=35 src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" />
+    <img title="Bootstrap" height=35 src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
+    <img title="SASS" height=35 src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" />
   </div>
     
 </div>
