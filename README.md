@@ -26,6 +26,7 @@ Here are some ideas to get you started:
     <img title="Redux" height=35 src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
     <img title="Rails" height=35 src="https://cdn.worldvectorlogo.com/logos/rails.svg" />
     <img title="Python" height=35 src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
+    <img title="PHP" height=35 src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />
     <img title="C#" height=35 src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
     <img title="3ds Max" height=35 src="https://cdn.worldvectorlogo.com/logos/3ds-max-2.svg" />
     <img title="Maya" height=35 src="https://cdn.worldvectorlogo.com/logos/maya-2017.svg" />
